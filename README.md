@@ -1,5 +1,5 @@
 #SwiftStarRating
-SwiftStarRating is a control to rating with stars in ios 8 / swift, it's simple to use and configurable. It's based on [https://github.com/yanguango/ASStarRatingView](ASStarRatingView)
+SwiftStarRating is a control to rating with stars in ios 8 / swift, it's simple to use and configurable. It's based on [ASStarRatingView](https://github.com/yanguango/ASStarRatingView)
 
 ##Screenshot
 ![screenshot](http://f.cl.ly/items/1j3p3T3T450V3b3Z260B/Screen%20Shot%202012-01-16%20at%20%E4%B8%8B%E5%8D%884.01.24.png "screenshot #1")
